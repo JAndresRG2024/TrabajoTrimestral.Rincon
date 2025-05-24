@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Eventos.API\\Eventos.API.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Eventos.MVC\\Eventos.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

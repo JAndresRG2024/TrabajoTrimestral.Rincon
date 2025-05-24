@@ -1,0 +1,11 @@
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\bin\Debug\net8.0\Eventos.Models.deps.json
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\bin\Debug\net8.0\Eventos.Models.dll
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\bin\Debug\net8.0\Eventos.Models.pdb
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\Eventos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\Eventos.Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\Eventos.Models.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\Eventos.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\Eventos.Models.dll
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\refint\Eventos.Models.dll
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\Eventos.Models.pdb
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.Models\obj\Debug\net8.0\ref\Eventos.Models.dll
