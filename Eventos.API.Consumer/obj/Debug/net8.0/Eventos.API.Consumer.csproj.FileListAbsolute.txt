@@ -1,0 +1,13 @@
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\bin\Debug\net8.0\Eventos.API.Consumer.deps.json
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\bin\Debug\net8.0\Eventos.API.Consumer.dll
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\bin\Debug\net8.0\Eventos.API.Consumer.pdb
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.csproj.AssemblyReference.cache
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.AssemblyInfoInputs.cache
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.AssemblyInfo.cs
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.sourcelink.json
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.dll
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\refint\Eventos.API.Consumer.dll
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\Eventos.API.Consumer.pdb
+C:\Users\LENOVO.USER\Desktop\TrabajoTrimestral\TrabajoTrimestral.Rincon\Eventos.API.Consumer\obj\Debug\net8.0\ref\Eventos.API.Consumer.dll

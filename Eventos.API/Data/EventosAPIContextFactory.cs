@@ -13,9 +13,14 @@ public class EventosAPIContextFactory : IDesignTimeDbContextFactory<EventosAPICo
             .Build();
 
         var optionsBuilder = new DbContextOptionsBuilder<EventosAPIContext>();
-        var connectionString = config.GetConnectionString("EventosAPIContext");
+        
+        //var connectionString = config.GetConnectionString("EventosAPIContextPostgres");
+        var connectionString = config.GetConnectionString("EventosAPIContextSqlServer");
 
-        optionsBuilder.UseNpgsql(connectionString);
+        //Configurar segun la base de  datos a usar
+        //optionsBuilder.UseNpgsql(connectionString);
+        optionsBuilder.UseSqlServer(connectionString);
+
 
         return new EventosAPIContext(optionsBuilder.Options);
     }

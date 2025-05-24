@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace Eventos.API
 {
@@ -8,10 +9,13 @@ namespace Eventos.API
         {
 
             var builder = WebApplication.CreateBuilder(args);
-
-            var connectionString = builder.Configuration.GetConnectionString("EventosAPIContext");
             builder.Services.AddDbContext<EventosAPIContext>(options =>
-            options.UseNpgsql(connectionString));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("EventosAPIContextSqlServer") ?? throw new InvalidOperationException("Connection string 'EventosAPIContextSqlServer' not found.")));
+
+
+            //builder.Services.AddDbContext<EventosAPIContext>(options =>
+            //    options.UseNpgsql(builder.Configuration.GetConnectionString("EventosAPIContextPostgres")));
+
             // Add services to the container.
 
             builder.Services.AddControllers();

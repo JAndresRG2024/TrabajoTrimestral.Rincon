@@ -5,9 +5,18 @@
       {
         "Path": "Eventos.API\\Eventos.API.csproj",
         "Action": "StartWithoutDebugging"
+      }
+    ]
+  },
+  {
+    "Name": "Test API",
+    "Projects": [
+      {
+        "Path": "Eventos.API\\Eventos.API.csproj",
+        "Action": "StartWithoutDebugging"
       },
       {
-        "Path": "Eventos.MVC\\Eventos.MVC.csproj",
+        "Path": "Eventos.Prueba\\Eventos.Prueba.csproj",
         "Action": "Start"
       }
     ]
